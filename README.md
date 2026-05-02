@@ -75,7 +75,4 @@ This project was selected as a **⭐ Staff Pick** by the Wolfram Community Edito
 
 ## Author
 
-**Ananya Mukherjee** · [github.com/ananyaM-Cosmo](https://github.com/ananyaM-Cosmo)  
-PhD in Physics, University of Massachusetts Lowell (2025)  
-Wolfram Summer School 2023 Participant  
-Research interests: Large-Scale Structure, Modified Gravity, Massive Gravity, Computational Physics
+**Ananya Mukherjee** · [github.com/ananyaM-Cosmo](https://github.com/ananyaM-Cosmo)    
